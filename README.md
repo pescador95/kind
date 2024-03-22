@@ -1,4 +1,4 @@
-# Compose e Kubernetes utilizando Kind
+# Docker e Kubernetes utilizando Kind
 
 Repositório para demonstração do uso do Kubernetes através do Kind.
 
